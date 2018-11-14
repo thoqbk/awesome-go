@@ -1,6 +1,6 @@
 # awesome-go
 
-Crawled and sorted by AwesomelsBot. Source: [awesome-go](https://github.com/avelino/awesome-go)
+Crawled and sorted daily by AwesomelsBot. Source: [awesome-go](https://github.com/avelino/awesome-go)
 
 ### Contents
 
